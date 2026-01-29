@@ -1,0 +1,5 @@
+{
+  "name": "Carrom game",
+  "description": "A realistic Carrom board game featuring realistic physics, single-player AI, and local multiplayer modes.",
+  "requestFramePermissions": []
+}
